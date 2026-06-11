@@ -30,3 +30,8 @@ Valores
 Público-Alvo
 
 Estudantes, educadores, famílias e todos os cidadãos interessados em compreender a importância das energias renováveis e da sustentabilidade para o futuro do planeta.
+
+Créditos. 
+As imagens utilizadas neste projeto foram gerados com auxílio da inteligência artificial (chatGPT/openAL) para fins educacionais 
+Prompt utilizado para geração da imagem: "paisagem de agro sustentável com energia solar, fazenda moderna, natureza preservada, painéis solar, céu azul e ambiente rural. 
+video consultado: https://www.youtube.com/watch?v=5I7_6vaEemA&t=45s.
