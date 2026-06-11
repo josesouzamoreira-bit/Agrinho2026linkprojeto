@@ -1,4 +1,4 @@
-## Agrinho2026linkprojeto
+## Agrinho2026
 ## Justificativa
 
 Diante dos desafios ambientais enfrentados pela sociedade, torna-se fundamental buscar alternativas energéticas que contribuam para o desenvolvimento sustentável. A energia solar destaca-se como uma solução eficiente e renovável, capaz de reduzir impactos ambientais e promover o uso consciente dos recursos naturais.
