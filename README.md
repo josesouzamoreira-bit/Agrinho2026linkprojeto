@@ -1,4 +1,4 @@
-##Agrinho2026linkprojeto
+## Agrinho2026linkprojeto
 ## Justificativa
 
 Diante dos desafios ambientais enfrentados pela sociedade, torna-se fundamental buscar alternativas energéticas que contribuam para o desenvolvimento sustentável. A energia solar destaca-se como uma solução eficiente e renovável, capaz de reduzir impactos ambientais e promover o uso consciente dos recursos naturais.
@@ -13,7 +13,7 @@ Este projeto foi desenvolvido com o propósito de conscientizar estudantes e a c
 - Incentivar o uso de tecnologias sustentáveis para a preservação dos recursos naturais.
 - Promover a educação ambiental por meio de uma plataforma digital acessível e informativa.
 - 
-  # Projeto Agrinho 2026 – Agro Sustentável. Plataforma informativa sobre energia solar e sua importância para a sustentabilidade no campo, promovendo conscientização ambiental, inovação e desenvolvimento sustentável
+Projeto Agrinho 2026 – Agro Sustentável. Plataforma informativa sobre energia solar e sua importância para a sustentabilidade no campo, promovendo conscientização ambiental, inovação e desenvolvimento sustentável
 Por meio de uma plataforma digital interativa, o projeto reúne informações, imagens e conteúdos educativos que promovem a conscientização sobre o uso de fontes renováveis de energia e a importância da adoção de práticas sustentáveis para a construção de um futuro mais equilibrado.
 
 ## O que o Projeto Faz
